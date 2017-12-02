@@ -30,6 +30,9 @@ names.pop(3)	#按下标删除
 #查值的下标
 names.index("xiangguo")
 
+#列表的长度
+names.__len__()
+
 #清空
 names.clear()
 
