@@ -43,7 +43,7 @@ f = open("yesterday.txt","r",encoding="utf-8")
 ##读一行
 #f.readline()
 
-##读所有内容到一个列表中，
+##读所有内容到一个列表中 ，
 
 # #把所有内容读出来返回一个列表，每行为一个元素。
 # print(f.readlines())
