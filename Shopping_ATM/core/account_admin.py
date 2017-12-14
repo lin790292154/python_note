@@ -67,6 +67,6 @@ def status_change():
                 print("This id not exist")
                 continue
 
-#add_user()
+add_user()
 #balance_change()
 #status_change()

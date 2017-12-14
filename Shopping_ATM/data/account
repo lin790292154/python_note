@@ -1,37 +1,9 @@
 {
-    "001": {
-        "name": "admin",
-        "passwd": "123",
-        "credit": "1000000",
-        "balance": "1000000",
-        "status": "0"
-    },
     "002": {
-        "name": "林春杰",
-        "passwd": "123",
-        "credit": "100000",
-        "balance": "29000",
-        "status": "0"
-    },
-    "003": {
-        "name": "Tom",
-        "passwd": "123",
-        "credit": "50000",
-        "balance": "51000",
-        "status": "0"
-    },
-    "004": {
-        "name": "Jack",
-        "passwd": "123",
-        "credit": "30000",
-        "balance": "27744",
-        "status": "0"
-    },
-    "005": {
         "name": "kratos",
         "passwd": "123",
-        "credit": "20000",
-        "balance": "22256",
+        "credit": "1000000",
+        "balance": "999002",
         "status": "0"
     }
 }
